@@ -1,7 +1,6 @@
 <?php
 
 /******************************************************************************
- *  (C)opyright 2000-2007 KWICK! Community GmbH, All Rights Reserved.
  *  (C)opyright 1999-2007 Andre Pascha. All Rights Reserved.
  *
  *       Title: <one line description>
